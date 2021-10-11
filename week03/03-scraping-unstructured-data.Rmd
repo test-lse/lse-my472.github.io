@@ -32,7 +32,7 @@ Now we're ready to scrape the website:
 
 ```{r}
 # Reading the HTML code
-bribe_html <- __________(url)
+bribe_html <- _____________(url)
 
 # Identify the CSS selector and add it to the css argument
 bribe_nodes <- html_nodes(bribe_html, css = "_____________")
