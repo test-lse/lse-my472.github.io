@@ -35,7 +35,7 @@ Now we're ready to scrape the website:
 bribe_html <- _________(url)
 
 # Identify the CSS selector and add it to the css argument
-bribe_nodes <- html_nodes(bribe_html, css = "____________")
+bribe_nodes <- html_nodes(bribe_html, css = "_____________")
 
 # Content of CSS selector
 bribe_nodes
